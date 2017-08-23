@@ -298,6 +298,7 @@
 78.138.126.253
 @@*$stylesheet
 @@eladkarako.com/
+@@google.com/recaptcha$subdocument
 @@img.dxcdn.com$script,domain=dx.com
 @@localhost.com/$first-party
 @@localhost/$first-party
@@ -342,8 +343,8 @@ amazon.com/adprefs
 android.clients.google.com/fdfe/log
 android.co.il/forum/download/file.php?avatar
 api.github.com/_private/browser/stats
-apis.google.com/*/*plusone*$important,third-party
-apis.google.com/*/fastbutton*$important,third-party
+apis.google.com/*/*plusone*$third-party
+apis.google.com/*/fastbutton*$third-party
 astrology
 awacs.co.il/extbanners
 banner_click
@@ -722,7 +723,7 @@ themarker.com/pcs/click
 thepiratebay.org/*/ads
 thepiratebay.org/*/exo
 thepiratebay.org/static/js/p.js
-thepiratebay.org^$important,inline-script
+thepiratebay.org^$inline-script
 torrentproject.se/*.pdf
 torrentproject.se/anti*.js
 tracker.js
@@ -743,7 +744,7 @@ upload.so/js/share.js
 uploadex.com/tst/dbtn.gif
 uploadex.com/tst/download1.png
 uploadshub.com/downloadfiles/*button
-uplod.ws^$important,inline-script
+uplod.ws^$inline-script
 userscloud.com/_a
 walla.co.il/dist/scripts/vertical/wos
 walla.co.il/events.asp?version=9&c=
@@ -774,7 +775,7 @@ xvideos.com/*/default.header.static.js
 xvideos.com/*/player.html5.static.js
 ynet.co.il/*/popup_msg_block.jpg
 youporn.com/*/ht.js
-youtube.com$beacon,important
+youtube.com$beacon
 youtube.com*adunit
 youtube.com/*/log_interaction
 youtube.com/*lazy*js
