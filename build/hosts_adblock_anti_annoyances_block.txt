@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-08-24T14:23:40.000Z+00:00 UTC
-! Version:        20170824142340000
+! Last modified:  2017-08-24T16:21:20.000Z+00:00 UTC
+! Version:        20170824162120000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          792
+! Rules:          793
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -380,6 +380,7 @@ click_banner
 clicktr
 clicktracker
 cloudflare.com
+cloudfront.net$domain=onhax.me
 cloudfront.net/?cdlad=
 cloudfront.net/id.js
 cnx-software.com/pic/support_cnxsoft.png^

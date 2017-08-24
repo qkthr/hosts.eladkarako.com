@@ -369,6 +369,7 @@ click_banner
 clicktr
 clicktracker
 cloudflare.com
+cloudfront.net$domain=onhax.me
 cloudfront.net/?cdlad=
 cloudfront.net/id.js
 cnx-software.com/pic/support_cnxsoft.png^
