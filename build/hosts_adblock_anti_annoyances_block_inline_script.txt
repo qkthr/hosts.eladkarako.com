@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-08-21T11:33:10.000Z+00:00 UTC
-! Version:        20170821113310000
+! Last modified:  2017-08-24T14:29:00.000Z+00:00 UTC
+! Version:        20170824142900000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Page-Scripts
-! Rules:          18
+! Rules:          19
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -18,6 +18,7 @@ ebay.com##script:contains(beforeunload), script:contains(lazyLoad), script:conta
 forum.xda-developers.com##script:contains(ad_navbar), script:contains(ad-tag), script:contains(adblocking), script:contains(adTag), script:contains(criteo), script:contains(deployads), script:contains(firebug), script:contains(nofacssserved), script:contains(purchad), script:contains(servebom.com), script:contains(xda_ad_choice), script:contains(xda_adtest)
 hwzone.co.il##script:contains(idle)
 israelpost.co.il##script:contains(AdvBottom), script:contains(AdvLeft), script:contains(AdvMenu), script:contains(AdvPopUnder), script:contains(AdvRight), script:contains(AdvTop), script:contains(BannerArray), script:contains(checkAdv)
+onhax.me##script:contains(console), script:contains(eval), script:contains(TID)
 onlife.co.il##script:contains("gpt-ad"), script:contains("location.reload"), script:contains(gpt-ad), script:contains(location.reload)
 pandora.com##script:contains(adroll), script:contains(ideoAds), script:contains(udioAds)
 torec.net##script:contains(monthly)

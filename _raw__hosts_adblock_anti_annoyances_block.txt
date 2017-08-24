@@ -467,6 +467,7 @@ godaddy.com/*rebrand-bg-image.jpg
 godaddy.com/pageevents
 goodshare
 google*/insights
+google.com$domain=onhax.me
 google.com*/csilog
 google.com*/footprints
 google.com*/jserror
