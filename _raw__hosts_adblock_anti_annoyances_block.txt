@@ -66,6 +66,7 @@
 /\/plsr\//
 /\/popupclick\//
 /\/stats\//
+/\/status-beacon\//
 /\/track\//
 /\/tracking\//
 /\/wordads\//
@@ -215,6 +216,7 @@
 /ora_code.js
 /ora_code_docs.js
 /pagead
+/ping.js
 /pinit.js
 /piwik.js
 /piwik.php
@@ -326,6 +328,7 @@ ad_rule
 addthis
 addthis_widget.js
 adid=
+adonis
 adrotate
 ads.
 ads.js
@@ -519,6 +522,7 @@ hostgator
 hover-intent.js
 hover-intent.min.js
 htjs.php
+html*adflag
 hwzone.co.il/*/hw_scripts.js
 hwzone.co.il/cubicbig-banner-articles.js
 hwzone.co.il/cubicbig1articles.js
@@ -761,6 +765,7 @@ wss\:\/\/
 www.facebook.com/babylonsoftwareltd
 www.google.*/ads/
 xda-cdn.com/*/favicons
+xda-developers.com$websocket
 xhamster.com/*/videofeatured
 xhamster.com/banner
 xhamster.com/cdn.stats
@@ -791,3 +796,4 @@ youtube.com/ptracking
 youtube.com/set_awesome
 youtube.com/share_ajax
 yts.ag/images/vpn
+|blob:$script,important

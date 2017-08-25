@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-08-24T16:21:20.000Z+00:00 UTC
-! Version:        20170824162120000
+! Last modified:  2017-08-25T16:58:20.000Z+00:00 UTC
+! Version:        20170825165820000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          793
+! Rules:          799
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -77,6 +77,7 @@
 /\/plsr\//
 /\/popupclick\//
 /\/stats\//
+/\/status-beacon\//
 /\/track\//
 /\/tracking\//
 /\/wordads\//
@@ -226,6 +227,7 @@
 /ora_code.js
 /ora_code_docs.js
 /pagead
+/ping.js
 /pinit.js
 /piwik.js
 /piwik.php
@@ -337,6 +339,7 @@ ad_rule
 addthis
 addthis_widget.js
 adid=
+adonis
 adrotate
 ads.
 ads.js
@@ -530,6 +533,7 @@ hostgator
 hover-intent.js
 hover-intent.min.js
 htjs.php
+html*adflag
 hwzone.co.il/*/hw_scripts.js
 hwzone.co.il/cubicbig-banner-articles.js
 hwzone.co.il/cubicbig1articles.js
@@ -772,6 +776,7 @@ wss\:\/\/
 www.facebook.com/babylonsoftwareltd
 www.google.*/ads/
 xda-cdn.com/*/favicons
+xda-developers.com$websocket
 xhamster.com/*/videofeatured
 xhamster.com/banner
 xhamster.com/cdn.stats
@@ -802,3 +807,4 @@ youtube.com/ptracking
 youtube.com/set_awesome
 youtube.com/share_ajax
 yts.ag/images/vpn
+|blob:$script,important
