@@ -1,5 +1,5 @@
-*$beacon,important
-*$websocket,important
+*$beacon
+*$websocket
 .bid/
 .biz/
 .ca/
@@ -484,6 +484,7 @@ google.com/analytics/web/inpage/pub/inpage.js
 google.com/fdfe/log
 google.com/js/bg/
 google.com/log
+google.com/pagead/drt
 google.com/ping
 google.com/tbproxy
 google.com/uds
@@ -641,6 +642,7 @@ pixelID=123
 platform.twitter.com/oct.js
 platform.twitter.com/widgets.js
 platform.twitter.com/widgets/follow_button.html
+play.google.com/log
 play.googleapis.com/log
 play.googleapis.com/play/log
 plus.google.com/+babylon
@@ -796,4 +798,4 @@ youtube.com/ptracking
 youtube.com/set_awesome
 youtube.com/share_ajax
 yts.ag/images/vpn
-|blob:$script,important
+|blob:$script

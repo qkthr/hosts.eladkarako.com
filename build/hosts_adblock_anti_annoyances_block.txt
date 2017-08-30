@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-08-25T16:58:20.000Z+00:00 UTC
-! Version:        20170825165820000
+! Last modified:  2017-08-30T14:55:30.000Z+00:00 UTC
+! Version:        20170830145530000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          799
+! Rules:          801
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
 ! Download:       https://raw.githubusercontent.com/eladkarako/hosts.eladkarako.com/master/build/hosts_adblock_anti_annoyances_block.txt
 ! --------------------------------------------------------------------------------------
-*$beacon,important
-*$websocket,important
+*$beacon
+*$websocket
 .bid/
 .biz/
 .ca/
@@ -495,6 +495,7 @@ google.com/analytics/web/inpage/pub/inpage.js
 google.com/fdfe/log
 google.com/js/bg/
 google.com/log
+google.com/pagead/drt
 google.com/ping
 google.com/tbproxy
 google.com/uds
@@ -652,6 +653,7 @@ pixelID=123
 platform.twitter.com/oct.js
 platform.twitter.com/widgets.js
 platform.twitter.com/widgets/follow_button.html
+play.google.com/log
 play.googleapis.com/log
 play.googleapis.com/play/log
 plus.google.com/+babylon
@@ -807,4 +809,4 @@ youtube.com/ptracking
 youtube.com/set_awesome
 youtube.com/share_ajax
 yts.ag/images/vpn
-|blob:$script,important
+|blob:$script
