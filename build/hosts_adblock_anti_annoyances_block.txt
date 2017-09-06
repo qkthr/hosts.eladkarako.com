@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-08-30T14:55:30.000Z+00:00 UTC
-! Version:        20170830145530000
+! Last modified:  2017-09-06T02:17:20.000Z+00:00 UTC
+! Version:        20170906021720000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          801
+! Rules:          809
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -11,6 +11,7 @@
 ! --------------------------------------------------------------------------------------
 *$beacon
 *$websocket
+.ai/
 .bid/
 .biz/
 .ca/
@@ -32,6 +33,7 @@
 .tk/
 .top/
 .us/
+.win/
 .xyz/
 /*Ebay_Banners
 /*adblock*.js
@@ -329,6 +331,7 @@ AdBlock-detection
 Ebay_Banners
 LiveChat
 LoadAds
+SUB_ID=[pubid]
 __utm.gif
 ab=promo
 accessibility.*/Loader/Init
@@ -462,6 +465,8 @@ facebook.com/tr
 facebook.com/tr*PageView
 facebook.net/*/like.php$third-party
 facebook.net/*/sdk.js
+filehippo.com/*px.js
+filehippo.com/scripts*/master*.js
 forbes.com/ajax/getUniregUserData
 forum.piriform.com/uploads/profile/photo-thumb-
 fosshub.com/*/donate
@@ -597,6 +602,7 @@ measure.js
 measure.min.js
 member.smartair.co.il/giftcard-mako-iframe
 menuAjax*act=counter
+messaging.min.js
 mgid.com
 microsoft.com/c.gif
 microsoft.com/ms.js
@@ -715,6 +721,7 @@ smartair-js.travelyo-cdn.site/js/
 social.s-msft.com/globalresources/Images/trans.gif
 sockjs
 soft32.com
+srcid=[PUBID]
 stack.imgur.com/$image,domain=stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com
 stackoverflow.com/posts/*/ivc
 submityourflicks.com/*/bl.php
@@ -765,6 +772,7 @@ uploadex.com/tst/download1.png
 uploadshub.com/downloadfiles/*button
 uplod.ws^$inline-script
 userscloud.com/_a
+vglnk
 walla.co.il/dist/scripts/vertical/wos
 walla.co.il/events.asp?version=9&c=
 walla.co.il/images/sponsers-logos-sprite.svg
