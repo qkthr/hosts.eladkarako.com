@@ -1,7 +1,7 @@
 @echo off
 
 ::force UTF-8 support
-::chcp 65001
+::chcp 65001 2>nul >nul
 
 ::----------------------------------------------------::
 :: make sure to browse the path to your `node.exe`,   ::
