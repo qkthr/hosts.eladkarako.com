@@ -113,8 +113,8 @@ masterkreatif.com##[id*="fbox"]
 merriam-webster.com##.follow-us, .social-sidebar, [class*="-top-"], [class*="bar-foot"], [class^="abl "], [class^="ad-"]
 metro.co.uk##.sidebar
 metrolyrics.com##a.related
-microsoft.com##.noscript-desc, .privacy-notice, [class*="-feedback"], [class*="slideshow"], [id*="-footer"], [id*="header-wrapper"], [id*="nav-wrapper"], [id*="rightColumn"], [id*="slideshow"], [id*="standardRating"], [id^="mainSection"] > p:nth-last-child(1), [id^="mainSection"] > p:nth-last-child(2), [id$="rating"], [id$="Rating"], noscript
-microsoft.com/en-us/download##.CSPvNext > .no-margin-row.row-fluid:nth-of-type(2) > .sortable-control.bp1-clear.bp1-col-3-3.bp2-clear.bp2-col-6-6.bp3-col-12-3, .shell-footer, [id^="hp-feedback"], [id^="slide-"], body > .row-fluid:nth-of-type(3), body > .row-fluid:nth-of-type(5) > .bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1
+microsoft.com##.m-hero, .noscript-desc, .privacy-notice, [class*="-feedback"], [class*="slideshow"], [id*="-footer"], [id*="header-wrapper"], [id*="nav-wrapper"], [id*="rightColumn"], [id*="slideshow"], [id*="standardRating"], [id^="mainSection"] > p:nth-last-child(1), [id^="mainSection"] > p:nth-last-child(2), [id$="rating"], [id$="Rating"], noscript
+microsoft.com/en-us/download##.CSPvNext > .no-margin-row.row-fluid:nth-of-type(2) > .sortable-control.bp1-clear.bp1-col-3-3.bp2-clear.bp2-col-6-6.bp3-col-12-3, .m-hero, .shell-footer, [id^="hp-feedback"], [id^="slide-"], body > .row-fluid:nth-of-type(3), body > .row-fluid:nth-of-type(5) > .bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1
 mirrorcreator.com##[id$="cloudup"], [id$="depositfiles"], [id$="dropbox"], [id$="filefactory"], [id$="fourshared"], [id$="lolabits"], [id$="oboom"], [id$="rapidgator"], [id$="twoshared"], [id$="uploadednet"], [id$="ziddu"], a[href*="href="dropjiffy"], div.banner, div.featured, div.highlight.term, div.info, div.infodisplay, div.shadow, div.userinfo
 mizbala.com##.author-box, [class*="essb"], [class*="sidebar"], [id^="back-top"], [id^="expim"], [id^="job"]
 morfix.co.il##.result_seperator, .widgetContainer, .wordOfTheDayContainer, [id^="teaser"], [onclick*="newsletter"]
