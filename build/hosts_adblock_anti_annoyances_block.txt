@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-09-07T20:10:30.000Z+00:00 UTC
-! Version:        20170907201030000
+! Last modified:  2017-09-10T03:09:10.000Z+00:00 UTC
+! Version:        20170910030910000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          812
+! Rules:          818
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -19,6 +19,7 @@
 .ch/
 .club/
 .cn/
+.co/
 .fm/
 .ga/
 .gq/
@@ -203,6 +204,9 @@
 /in.php
 /insights/consumersurvey
 /ip.php
+/jetpack/modules/related-posts
+/jetpack/modules/sharedaddy
+/jetpack/modules/wpgroho.js
 /jquery.nicescroll.js
 /jquery.nicescroll.min.js
 /jquery.sidr.js
@@ -294,6 +298,8 @@
 /widget.js*$third-party
 /wjwplayer/raven.min.js
 /wp-content/*/default-nano
+/wp-content/plugins/anti-spam
+/wp-content/plugins/facebook-pagelike-widget
 /wp-emoji
 /wp-polls
 /wpb-bluehost-special.png

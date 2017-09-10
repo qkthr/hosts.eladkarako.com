@@ -8,6 +8,7 @@
 .ch/
 .club/
 .cn/
+.co/
 .fm/
 .ga/
 .gq/
@@ -192,6 +193,9 @@
 /in.php
 /insights/consumersurvey
 /ip.php
+/jetpack/modules/related-posts
+/jetpack/modules/sharedaddy
+/jetpack/modules/wpgroho.js
 /jquery.nicescroll.js
 /jquery.nicescroll.min.js
 /jquery.sidr.js
@@ -283,6 +287,8 @@
 /widget.js*$third-party
 /wjwplayer/raven.min.js
 /wp-content/*/default-nano
+/wp-content/plugins/anti-spam
+/wp-content/plugins/facebook-pagelike-widget
 /wp-emoji
 /wp-polls
 /wpb-bluehost-special.png
